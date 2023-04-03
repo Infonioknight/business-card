@@ -6,9 +6,15 @@ body {
 
 .master-container {
   width: 300px;
-  margin: auto;
   background-color: #14001a;
   border-radius: 10px;
+  height: 700px;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  margin: auto;
 }
 
 .headshot {
